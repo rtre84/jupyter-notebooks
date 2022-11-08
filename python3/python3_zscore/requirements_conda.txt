@@ -1,5 +1,5 @@
 ujson==5.4.0
 pandas==0.20.2
-numpy==1.13.0
+numpy==1.22.0
 dill==0.2.5
 scikit-learn==0.18.1
