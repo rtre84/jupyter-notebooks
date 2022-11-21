@@ -8,5 +8,5 @@ setup(name='widendeep',
       author='Yufeng Guo',
       author_email='yfg@google.com',
       license='MIT',
-      install_requires=['tensorflow==2.7.2'],
+      install_requires=['tensorflow==2.9.3'],
       zip_safe=False)
